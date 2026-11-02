@@ -1,0 +1,1 @@
+PASS: forecast metrics, holdout dates, CV selection, customer reconciliation, allocation bounds, Tier-1 proxy and profit arithmetic.

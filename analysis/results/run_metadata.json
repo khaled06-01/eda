@@ -1,0 +1,12 @@
+{
+  "input_filename": "10_ML_Master_Dataset.csv",
+  "sha256": "d1c141f2563e28b235bc22cc3c4ff60031548e40664b8ff29f92585bfb289e44",
+  "rows": 29013,
+  "columns": 60,
+  "months": 36,
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "scikit_learn": "1.8.0"
+}
